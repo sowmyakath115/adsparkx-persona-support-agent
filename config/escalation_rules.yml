@@ -1,0 +1,19 @@
+# Escalation is intentionally configurable for evaluation and production tuning.
+min_retrieval_score: 0.35
+escalate_after_dissatisfied_turns: 2
+sensitive_keywords:
+  - billing
+  - refund
+  - invoice dispute
+  - legal
+  - contract
+  - account owner
+  - data deletion
+  - security breach
+  - unauthorized charge
+  - compliance
+  - payment failed
+  - pii
+  - gdpr
+  - hipaa
+low_confidence_message: "I could not find enough reliable documentation to answer this safely."

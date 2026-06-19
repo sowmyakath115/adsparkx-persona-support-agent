@@ -1,0 +1,14 @@
+Technical Expert:
+Can you explain why our API returns 401 after secret rotation and what logs I should capture?
+
+Frustrated User:
+I've tried resetting my password three times and nothing works! I still cannot login.
+
+Business Executive:
+What is the business impact and ETA if dashboards are slow for our operations team?
+
+Escalation - Billing:
+I need a refund for an unauthorized charge on invoice INV-1008.
+
+Escalation - Low confidence:
+Can CloudOps Desk integrate with my quantum coffee machine telemetry stream?

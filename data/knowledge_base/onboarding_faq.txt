@@ -1,0 +1,16 @@
+CloudOps Desk Onboarding FAQ
+
+Q: How do new users join a workspace?
+A: A workspace administrator sends an invitation from Workspace Settings > Members. Invites expire after 7 days.
+
+Q: Can a user belong to multiple workspaces?
+A: Yes. Users can switch workspaces from the account menu after accepting invitations.
+
+Q: What roles are available?
+A: Viewer, Analyst, Operator, Administrator, Billing Administrator, and Workspace Owner. The Workspace Owner role has final authority for ownership and security decisions.
+
+Q: How do we import assets?
+A: Administrators can upload CSV files from Assets > Import. CSV files must include asset_name, owner_email, environment, and criticality.
+
+Q: How long does initial setup take?
+A: Small teams usually finish initial setup in under one hour. Enterprise setup with SSO, SCIM, audit exports, and custom integrations may take several days.
